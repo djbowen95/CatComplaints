@@ -1,4 +1,27 @@
-To break down the brief, I need to:
+1. Build HTML.
+- [] Set up a single web page
+- [] Create a header and footer
+- - [] Header should contain a navigation bar
+- - [] Navigation bar must include three navigation links
+- [] Create an image element
+- - [] Should be semantic html (use figure?)
+- - [] Should have a caption
+- - [] Should have alt text
+- [] Create a contact form
+- - [] Should have a space for name
+- - [] Should have a space for email
+- - [] Should have a submit button
+- [] Must have two heading elements
+- - [] They must be different classes
+- [] BONUS: I think I'm going to make this a cat web page, so I might include a HTML paragraph element for some about me text.
+
+2. Add CSS.
+
+3. Go through checks and make sure brief is met.
+
+4. Check against exercises.
+
+To meet the brief
 
 - [] Set up a single web page
 - [] Have a header and footer
